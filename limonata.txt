@@ -2,5 +2,5 @@ limonata tarifi:
 
 1.limonata
 2.su
-3.1 küp şeker conflict
+3.seker
 4.nane
